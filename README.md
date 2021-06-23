@@ -1,13 +1,13 @@
 # acquisition-samples
 A place to save acquisition samples created in 18F's work with agencies. 
 
-# Draft solicitations
+# Solicitations
 
 *United States Tax Court*
-[Solicitation](https://github.com/ustaxcourt/case-management-rfq) for agile software development of an open source case management system, [DAWSON](https://www.ustaxcourt.gov/dawson.html)
+[Request for quote](https://github.com/ustaxcourt/case-management-rfq) for agile software development of an open source case management system, [DAWSON](https://www.ustaxcourt.gov/dawson.html)
 
-*National Geospatial-Intelligence Agency* [solicitaiton](https://github.com/waldoj/nga-moving-target-indicator-modernization-software) for Moving Tracking Indicator. 
+*HHS, Office of Head Start, within the Administration for Children and Families (ACF), Health and Human Services (HHS)*
+[Request for Quote](https://github.com/18F/Head_Start_TTA_RFQ) for agile software development of a modular, open source Training and Technical Assistance (TTA) data platform. 
 
-*Office of Head Start* [solicitation](https://github.com/18F/Head_Start_TTA_RFQ/blob/master/Final_Request_for_Quotes.md)
-
-*Alaska* [solicitation](https://github.com/AlaskaDHSS/RFP-Search-Unification) for unified search. 
+*State of Alaska, Department of Public Assistance*
+[Request for Proposals] (https://github.com/AlaskaDHSS/RFP-Search-Unification) for agile software develeopment of an open source system to assist case workers in searching legacy databases for case information. 
