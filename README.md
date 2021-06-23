@@ -10,4 +10,4 @@ A place to save acquisition samples created in 18F's work with agencies.
 [Request for Quote](https://github.com/18F/Head_Start_TTA_RFQ) for agile software development of a modular, open source Training and Technical Assistance (TTA) data platform. 
 
 *State of Alaska, Department of Public Assistance*
-[Request for Proposals] (https://github.com/AlaskaDHSS/RFP-Search-Unification) for agile software develeopment of an open source system to assist case workers in searching legacy databases for case information. 
+[Request for Proposals](https://github.com/AlaskaDHSS/RFP-Search-Unification) for agile software develeopment of an open source system to assist case workers in searching legacy databases for case information. 
